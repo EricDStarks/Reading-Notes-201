@@ -2,7 +2,7 @@
 
 Notes for Code School
 
-## [Code102]Intro to Software Development
+## [Code102](/Reading-Notes201/Intro to Software Development/Code102)
 
 ## [Code201](/Reading-Notes 201/Foundations of Software Development/Code201)
 
